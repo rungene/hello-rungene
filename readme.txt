@@ -1,1 +1,1 @@
-In this project we practice how to use Git and Github through a series of challeges.
+In this project we practice how to use Git and Github through a series of challenges.
