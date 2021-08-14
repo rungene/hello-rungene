@@ -1,3 +1,1 @@
-Hello Rungene
-
-How are you doing brother?
+In this project we practice how to use Git and Github through a series of challeges.
